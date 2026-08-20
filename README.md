@@ -2,4 +2,4 @@
 
 ## 📄 Resume
 
-📥 [**View / Download My Resume**](./MOUNIKA_PULLURU_SCRUM_RESUME.pdf)
+📥 [**View / Download My Resume**](./MOUNIKA_PULLURU_SCRUM_MASTER.pdf)
