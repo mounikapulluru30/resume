@@ -1,1 +1,1 @@
-📥 [View / Download My Resume](./resume/Mounika_Pulluru_Scrum_Master_Resume.pdf)
+📥 [View / Download My Resume](./resume/MOUNIKA _PULLURU_SCRUM_MASTER.pdf)
