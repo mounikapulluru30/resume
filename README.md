@@ -173,7 +173,7 @@ I continuously develop my knowledge across:
 * SAFe concepts
 * Agile Metrics
 * AI for Agile Teams
-* **Microsoft Azure Fundamentals**
+* Microsoft Azure Fundamentals
 * Quality Engineering
 * Modern Software Delivery Practices
 
